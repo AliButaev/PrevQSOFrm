@@ -1,6 +1,6 @@
 *.vs
+!PrevQsoFrm/bin/Release/PrevQSOFrm.dll
 PrevQsoFrm/bin/*
-PrevQsoFrm/bin/Release/!PrevQSOFrm.dll
 PrevQsoFrm/obj/*
 temp/*
 PrevQsoFrm/future/*
