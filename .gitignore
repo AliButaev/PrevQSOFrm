@@ -1,5 +1,4 @@
 *.vs
-!PrevQsoFrm/bin/Release/PrevQSOFrm.dll
 PrevQsoFrm/bin/*
 PrevQsoFrm/obj/*
 temp/*
